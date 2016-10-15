@@ -1,0 +1,67 @@
+body {
+    background-image: url("photos/bwcoins.jpg"); no-repeat center top fixed;
+    background-size: 1920px 1200px;
+    background-repeat: no-repeat;
+}
+
+.logo {
+    content: url(photos/inventory.png);
+    margin-left: auto;
+    margin-right: auto; 
+    width: 620px;
+    height: 292px;
+}
+
+.nav h1 {
+    font-size: 50px;
+    color:white;
+    text-align: center;
+    font-family:sans-serif, Lucida Grande;
+    font-size: 50px;
+    text-shadow: 2px 2px orange;
+}
+
+h1 span {
+    border-radius: 55px;
+    border: 5px solid orange;
+    width: 200px;
+    padding: 20px; 
+    height: 150px; 
+}
+
+.login { 
+    font-family: sans-serif, Lucida Grande;
+    color:white;
+    text-align: center;
+    font-size: 20px;
+}
+
+.submit input { 
+    background-color:orange;
+}
+
+/*
+.register input { 
+    background-color:orange;
+}
+*/
+
+.register { 
+    background:orange;
+    text-decoration: none;
+    display: block;
+    height: 25px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+  
+}
+
+.footer {
+    background-color:orange;
+    font-family: sans-serif, Lucida Grande;
+    height: 20px;
+    text-align:inherit;
+}

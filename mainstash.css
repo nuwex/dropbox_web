@@ -1,0 +1,25 @@
+body {
+    background-image: url("photos/blurcoins.jpg");  no-repeat center top fixed;
+    background-size: 1920px 1200px;
+    background-size:cover;
+}
+
+.logo {
+    content: url(photos/mystash.png);
+    margin-left: auto;
+    margin-right: auto; 
+    width: 620px;
+    height: 292px;
+}
+
+tabs a {
+  color: black;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.tabs li {
+  display: inline;
+}
